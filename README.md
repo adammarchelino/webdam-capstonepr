@@ -1,4 +1,4 @@
-# Portfolio Website - Adam Marchelino
+# Website Portofolio - Adam Marchelino
 
 ## Description
 Portfolio website pribadi yang dibangun dengan React dan Tailwind CSS, menampilkan profil profesional, keahlian, galeri proyek, dan sistem pesan real-time. Website ini dibuat sebagai bagian dari Capstone Project Student Developer Initiative (Hacktiv8 x IBM) dengan bantuan AI IBM Granite untuk mempercepat proses development.
