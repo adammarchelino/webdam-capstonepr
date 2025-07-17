@@ -109,7 +109,7 @@ Meski AI sangat membantu, semua code saya pahami dan disesuaikan secara manual u
 ![Gallery](./images/Gallery.png)
 
 ## Contact
-- **Email**: [gammbas7@gmail.com.com]
+- **Email**: [gammbas7@gmail.com]
 - **LinkedIn**: [Adam Marchelino](https://www.linkedin.com/in/adam-marchelino/)
 
 ---
