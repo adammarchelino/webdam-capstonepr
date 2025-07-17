@@ -1,7 +1,7 @@
 # Website Portofolio - Adam Marchelino
 
 ## Description
-Portfolio website pribadi yang dibangun dengan React dan Tailwind CSS, menampilkan profil profesional, keahlian, galeri proyek, dan sistem pesan real-time. Website ini dibuat sebagai bagian dari Capstone Project Student Developer Initiative (Hacktiv8 x IBM) dengan bantuan AI IBM Granite untuk mempercepat proses development.
+Portfolio website pribadi yang dibangun dengan React dan Tailwind CSS, menampilkan profil, dan sistem pesan real-time. Website ini dibuat sebagai bagian dari Capstone Project Student Developer Initiative (Hacktiv8 x IBM) dengan bantuan AI IBM Granite untuk mempercepat proses development.
 
 ## Technologies Used
 - **Frontend**: React dengan (useState, useEffect, useCallback)
@@ -104,12 +104,12 @@ Meski AI sangat membantu, semua code saya pahami dan disesuaikan secara manual u
 🌐 **[Live Website](https://webdam-capstonepr.web.app/)**
 
 ## Screenshots
-![Hero Section]!
-<img width="1366" height="768" alt="Hero" src="https://github.com/user-attachments/assets/1fbbe7db-8b88-4ae5-9e92-0648357a3e85" />
-![Skills Section]!
-<img width="1366" height="717" alt="Skills" src="https://github.com/user-attachments/assets/dea36ef2-ab8d-405d-8cdd-fd5622fe81a6" />
-![Contact Form]!
-<img width="1366" height="742" alt="Gallery" src="https://github.com/user-attachments/assets/aab2ee24-55d4-4550-ad11-0902b3abc3b2" />
+*Hero Section*
+
+*Skills Section*
+
+*Contact Form*
+
 
 ## Contact
 - **Email**: [gammbas7@gmail.com.com]
