@@ -100,14 +100,6 @@ IBM Granite AI membantu secara signifikan dalam proses pengembangan website ini 
 
 Meski AI sangat membantu, semua code saya pahami dan disesuaikan secara manual untuk memastikan kualitas dan pemahaman yang mendalam.
 
-## Live Demo
-🌐 **[Live Website](https://webdam-capstonepr.web.app/)**
-
-## Screenshots
-<img src=./images/Hero.png width="600" />
-<img src=./images/Skills.png width="600" />
-<img src=./images/Gallery.png width="600" />
-
 ## Contact
 - **Email**: [gammbas7@gmail.com]
 - **LinkedIn**: [Adam Marchelino](https://www.linkedin.com/in/adam-marchelino/)
