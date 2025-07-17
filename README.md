@@ -111,7 +111,6 @@ Meski AI sangat membantu, semua code saya pahami dan disesuaikan secara manual u
 ## Contact
 - **Email**: [gammbas7@gmail.com.com]
 - **LinkedIn**: [Adam Marchelino](https://www.linkedin.com/in/adam-marchelino/)
-- **GitHub**: [Adam Marchelino](https://github.com/adammarchelino)
 
 ---
 *Dibuat sebagai bagian dari Capstone Project Student Developer Initiative (Hacktiv8 x IBM)*
