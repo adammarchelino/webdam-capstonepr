@@ -15,8 +15,8 @@ Portfolio website pribadi yang dibangun dengan React dan Tailwind CSS, menampilk
 - **Responsive Navigation**: Navbar dengan hamburger menu dan smooth scroll
 - **Hero Section**: Profil dengan foto, deskripsi, dan call-to-action buttons
 - **About Section**: Informasi personal
-- **Skills Grid**: Showcase 10+ teknologi dengan hover animations
-- **Projects Gallery**: 3 project cards dengan external links
+- **Skills Grid**: Showcase teknologi dengan hover animations
+- **Projects Gallery**: 3 cards dengan external links
 - **Real-time Contact Form**: Form dengan Firebase integration dan live messaging
 - **Social Media Integration**: Links ke LinkedIn, GitHub, YouTube, Instagram
 - **Performance Optimized**: React.memo, lazy loading, dan optimasi hooks
@@ -74,31 +74,31 @@ IBM Granite AI membantu secara signifikan dalam proses pengembangan website ini 
 
 **2. Problem Solving**
 - Debugging Firebase integration issues
-- Menyelesaikan responsive design challenges
-- Troubleshooting state management problems
+- Menyelesaikan tantangan responsive design
+- Troubleshooting masalah state management
 
 **3. Best Practices Implementation**
-- Saran implementasi performance optimization
+- Saran pengaplikasian performance optimization
 - Code review untuk accessibility improvements
-- Security considerations untuk Firebase setup
+- Saran keamanan untuk Firebase setup
 
 **4. Documentation & Comments**
 - Generate inline comments untuk complex functions
 - Membantu menulis dokumentasi yang clear
-- Struktur README yang comprehensive
+- Struktur README yang comprehensive dan rapi
 
 **5. Feature Enhancement Ideas**
-- Suggestions untuk user experience improvements
+- Saran untuk user experience improvements
 - Modern design patterns dan animations
 - Real-time features implementation guidance
 
 ### Dampak Penggunaan AI
-- **Produktivitas**: Menghemat 40-50% waktu development
-- **Code Quality**: Lebih clean dan maintainable code structure
+- **Produktivitas**: Menghemat 40-50% waktu development, sangat efisien
+- **Code Quality**: Lebih clean dan mudah di rawat
 - **Learning**: Mempercepat pemahaman, Learning By doing
-- **Debugging**: Faster problem identification dan solution, mempercepat kesadaran dan tindakan saya
+- **Debugging**: Mempercepat kesadaran dan tindakan saya
 
-Meski AI sangat membantu, semua code saya pahami dan disesuaikan secara manual untuk memastikan kualitas dan pemahaman yang mendalam.
+Meski AI sangat membantu, semua code saya pahami dan disesuaikan secara manual untuk memastikan kualitas dan pemahaman yang mendalam, dan tujuan akhir saya adalah mendapat pelajaran, bukan sekedar copy paste.
 
 ## Contact
 - **Email**: [gammbas7@gmail.com]
