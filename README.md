@@ -104,9 +104,9 @@ Meski AI sangat membantu, semua code saya pahami dan disesuaikan secara manual u
 🌐 **[Live Website](https://webdam-capstonepr.web.app/)**
 
 ## Screenshots
-![Hero Section]<img src=./images/Hero.png width="300" />
-![Skills Section]<img src=./images/Skills.png width="300" />
-![Gallery]<img src=./images/Gallery.png width="300" />
+<img src=./images/Hero.png width="500" />
+<img src=./images/Skills.png width="500" />
+<img src=./images/Gallery.png width="500" />
 
 ## Contact
 - **Email**: [gammbas7@gmail.com]
