@@ -1,6 +1,6 @@
 # Website Portofolio - Adam Marchelino
 
-Portfolio website pribadi yang dibangun dengan React dan Tailwind CSS, menampilkan profil, dan sistem pesan real-time. Website ini dibuat sebagai bagian dari Capstone Project Student Developer Initiative (Hacktiv8 x IBM) dengan bantuan AI IBM Granite untuk mempercepat proses development.
+Portfolio website pribadi yang dibangun dengan React dan Tailwind CSS, menampilkan profil, dan sistem pesan real-time. Website ini dibuat sebagai bagian dari Capstone Project Student Developer Initiative (Hacktiv8 x IBM) dengan bantuan AI untuk mempercepat proses development.
 
 ## Technologies Used
 - **Frontend**: React dengan (useState, useEffect, useCallback)
@@ -62,19 +62,20 @@ npm run build
 
 ## AI Support Explanation
 
-### Penggunaan IBM Granite dalam Development
+### Penggunaan AI dalam Development
 
-IBM Granite AI membantu secara signifikan dalam proses pengembangan website ini melalui beberapa aspek:
+AI membantu secara signifikan dalam proses pengembangan website ini melalui beberapa aspek:
 
 **1. Code Generation & Optimization**
-- Granite membantu generate boilerplate code React components
-- Optimasi struktur komponen dengan React.memo dan useCallback
-- Generate CSS classes Tailwind yang kompleks untuk animasi
+- Membantu menghasilkan kerangka awal komponen React secara efisien.
+- Mengoptimalkan penggunaan hooks seperti useCallback dan useMemo.
+- Menyusun alur data (state management) yang lebih terstruktur.
+- Meningkatkan performa dengan penggunaan React.memo dan lazy loading.
 
 **2. Problem Solving**
-- Debugging Firebase integration issues
-- Menyelesaikan tantangan responsive design
-- Troubleshooting masalah state management
+- Membantu mengatasi kendala pada integrasi Firebase, seperti koneksi dan keamanan database.
+- Memperbaiki masalah kode terkait useState, useEffect, dan dependensi.
+- Membantu untuk menemukan dan menjelaskan error
 
 **3. Best Practices Implementation**
 - Saran pengaplikasian performance optimization
@@ -82,7 +83,7 @@ IBM Granite AI membantu secara signifikan dalam proses pengembangan website ini 
 - Saran keamanan untuk Firebase setup
 
 **4. Documentation & Comments**
-- Generate inline comments untuk complex functions
+- Generate inline comments 
 - Membantu menulis dokumentasi yang clear
 - Struktur README yang comprehensive dan rapi
 
